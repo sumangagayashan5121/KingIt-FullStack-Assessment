@@ -62,5 +62,3 @@
 - **REST**: API architecture
 
 ---
-
-Feel free to adjust the content as needed!
